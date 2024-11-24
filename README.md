@@ -23,5 +23,5 @@ I'm Kanishka, an aspiring **Data Scientist** and **Machine Learning Engineer** w
 
 ## 📂 Project Portfolio
 Each of my projects is like a chapter in my journey to explore data's vast potential. Here’s a peek into what I’ve built:
-[Portfolio](https://github.com/SharmaKanishkaa/Portfolio/edit/main/README.md)
+[Portfolio](https://github.com/SharmaKanishkaa/Portfolio)
 
