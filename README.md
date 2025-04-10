@@ -5,24 +5,24 @@ Beyond the numbers, I’m fascinated by how data can revolutionize fields like h
 
 Ultimately, I aim to blend technical expertise with creativity to make a lasting impact across diverse industries. Let’s connect and make data count!
 
-## ✅ Competencies
-- Exploratory Data Analysis (EDA)
-- Data Wrangling & Cleaning
-- Statistical Analysis
-- Data Visualization
-- Machine Learning
-- Natural Language Processing (NLP)
-- ETL/ELT
-- Relational Databases (RDBMS)
+## ✅ Core Competencies  
+- Data Engineering: ETL/ELT, Data Pipelines, PySpark, Airflow, AWS  
+- Data Analysis: EDA, Visualization, Statistical Insights, Dashboards  
+- Machine Learning: Supervised/Unsupervised Models, Model Tuning  
+- NLP: Text Classification, Transformers, Word Embeddings  
+- Time Series Forecasting & Predictive Modeling  
+- Data Warehousing: Snowflake, PostgreSQL, Hive, Hadoop  
 
-## 💻 Tech Stack
-- **Programming Languages**: Python, C/C++, SQL
-- **Machine Learning & Deep Learning**: TensorFlow, Keras, PyTorch, scikit-learn, NumPy, pandas, Matplotlib, Seaborn, Hugging Face Transformers, LLaMA, RAG
-- **Web Development & Deployment**: Flask, Streamlit
-- **Data Visualization**: Power BI
-- **Databases & Cloud**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Tools**: MS Excel, MS Word
+## 💻 Tech Stack  
+- **Languages**: Python, SQL  
+- **ML/DL & NLP**: scikit-learn, PyTorch, TensorFlow, Keras, BERT, Word2Vec, GloVe, Hugging Face Transformers  
+- **Data Tools**: pandas, NumPy, Matplotlib, Seaborn, Altair  
+- **Data Engineering**: PySpark, Apache Airflow, Hadoop, Hive, AWS (S3, Lambda), Snowflake, Databricks  
+- **Data Visualization**: Power BI, Streamlit  
+- **Databases**: PostgreSQL, Hive, MySQL  
+- **Version Control**: Git, GitHub  
+- **Productivity**: MS Excel, MS Word  
+
 
 ## 📂 Project Portfolio
 Each of my projects is like a chapter in my journey to explore data's vast potential. Here’s a peek into what I’ve built:
