@@ -5,8 +5,6 @@ Beyond the numbers, I’m fascinated by how data can revolutionize fields like h
 
 Ultimately, I aim to blend technical expertise with creativity to make a lasting impact across diverse industries. Let’s connect and make data count!
 
-Here’s a **concise and professional** version of your **Core Competencies** and **Tech Stack** sections that maintains clarity while reducing redundancy and buzzwords:
-
 ---
 
 ### Core Competencies
