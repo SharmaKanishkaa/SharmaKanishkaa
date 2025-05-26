@@ -5,24 +5,29 @@ Beyond the numbers, I’m fascinated by how data can revolutionize fields like h
 
 Ultimately, I aim to blend technical expertise with creativity to make a lasting impact across diverse industries. Let’s connect and make data count!
 
-## ✅ Core Competencies  
-- Data Engineering: ETL/ELT, Data Pipelines, PySpark, Airflow, AWS  
-- Data Analysis: EDA, Visualization, Statistical Insights, Dashboards  
-- Machine Learning: Supervised/Unsupervised Models, Model Tuning  
-- NLP: Text Classification, Transformers, Word Embeddings  
-- Time Series Forecasting & Predictive Modeling  
-- Data Warehousing: Snowflake, PostgreSQL, Hive, Hadoop  
+Here’s a **concise and professional** version of your **Core Competencies** and **Tech Stack** sections that maintains clarity while reducing redundancy and buzzwords:
 
-## 💻 Tech Stack  
-- **Languages**: Python, SQL  
-- **ML/DL & NLP**: scikit-learn, PyTorch, TensorFlow, Keras, BERT, Word2Vec, GloVe, Hugging Face Transformers  
-- **Data Tools**: pandas, NumPy, Matplotlib, Seaborn, Altair  
-- **Data Engineering**: PySpark, Apache Airflow, Hadoop, Hive, AWS (S3, Lambda), Snowflake, Databricks  
-- **Data Visualization**: Power BI, Streamlit  
-- **Databases**: PostgreSQL, Hive, MySQL  
-- **Version Control**: Git, GitHub  
-- **Productivity**: MS Excel, MS Word  
+---
 
+### Core Competencies
+
+* **Data Engineering**: ETL/ELT, Pipelines, PySpark, Airflow, AWS
+* **Data Analysis**: EDA, Visualization, Dashboards, Statistical Insights
+* **Machine Learning**: Supervised/Unsupervised Models, Hyperparameter Tuning
+* **Natural Language Processing**: Text Classification, Transformers, Embeddings
+* **Forecasting**: Time Series Analysis, Predictive Modeling
+* **Data Warehousing**: Snowflake, PostgreSQL, Hive, Hadoop
+
+### Tech Stack
+
+* **Languages**: Python, SQL
+* **ML/NLP Libraries**: scikit-learn, PyTorch, TensorFlow, Keras, Transformers (BERT, Word2Vec, GloVe)
+* **Data Tools**: pandas, NumPy, Matplotlib, Seaborn, Altair
+* **Engineering Tools**: PySpark, Airflow, Hadoop, Hive, AWS, Databricks, Snowflake
+* **Visualization**: Power BI, Streamlit
+* **Databases**: PostgreSQL, Hive, MySQL
+* **Version Control & Productivity**: Git, GitHub, Excel, Word
+---
 
 ## 📂 Project Portfolio
 Each of my projects is like a chapter in my journey to explore data's vast potential. Here’s a peek into what I’ve built:
